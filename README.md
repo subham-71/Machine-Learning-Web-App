@@ -28,25 +28,24 @@ The app offers various data pre-processing services ranging from dropping rows c
 
 ![features](https://user-images.githubusercontent.com/72215169/171046321-fae1d6ff-a6d6-48ce-836a-30c61b2ece29.jpg)
 
-### Handling Missing Values
+
 
 ![missing_values](https://user-images.githubusercontent.com/72215169/171046520-b5c862e5-dfb0-4156-b66c-066debc35279.jpg)
 
-### Visualizing through plots
+
 
 ![plots](https://user-images.githubusercontent.com/72215169/171046550-61bec6c3-b23f-47c6-81cf-7f72800e577b.jpg)
 
-### Viewing Outliers
+
 
 ![checking outliers](https://user-images.githubusercontent.com/72215169/171046641-87cc147e-0001-405c-bd62-44633e1f1602.jpg)
 
 
-### Drop Rows and Columns
 
 ![drop rows and columns](https://user-images.githubusercontent.com/72215169/171046476-846601e8-900f-4f1d-abce-c680183dc379.jpg)
 
 
-### Label Encoding columns
+
 
 ![label_encoding](https://user-images.githubusercontent.com/72215169/171046696-ba8d364f-878a-4de2-ade1-e3b64234c6a5.jpg)
 
