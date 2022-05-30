@@ -8,14 +8,14 @@ import numpy as np
 import pandas as pd
 
 st.set_page_config(
-     page_title="Machine Learning Web App",
+     page_title="Data Pre-processing and Model Selection Web App",
      page_icon="🧊",
      layout="wide",
      initial_sidebar_state="expanded",
      
 )
 
-st.sidebar.title("Data Analysis Web App")
+st.sidebar.title("Data Pre-processing and Model Selection Web App")
 
 file_format_type = ["csv", "txt", "xls", "xlsx", "ods", "odt"]
 functions = ["Overview",  "Drop Columns", "Drop Categorical Rows", "Drop Rows in Range", "Rename Columns", "Display Plot","Outliers", "Handle Missing Data","Label Encode" ]
