@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 st.set_page_config(
-     page_title="Data Analysis Web App",
+     page_title="Machine Learning Web App",
      page_icon="🧊",
      layout="wide",
      initial_sidebar_state="expanded",
