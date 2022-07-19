@@ -6,7 +6,7 @@ The web app has services for both data pre-processing steps and machine learning
 First a file is uploaded to the web-app. The file for pre-processing can be raw. But for building a machine learning model and selecting the best model with optiimal parameters, a pre-processed file needs to be uploaded with the target feature at its last column. It can be either a regression or a classification task.
 
 File upload format : cdv,txt,xls,xlsx,ods,odt<br />
-I have also given link to download sample datasets so that explore the app.<br />
+I have also given link to download sample datasets so as to explore the app.<br />
 
 #### Sample Datasets :
 
