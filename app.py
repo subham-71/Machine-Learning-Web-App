@@ -15,7 +15,7 @@ st.set_page_config(
      
 )
 
-st.sidebar.title("Data Pre-processing and Model Selection Web App")
+st.sidebar.title("PreproModel")
 
 file_format_type = ["csv", "txt", "xls", "xlsx", "ods", "odt"]
 functions = ["Overview",  "Drop Columns", "Drop Categorical Rows", "Drop Rows in Range", "Rename Columns", "Display Plot","Outliers", "Handle Missing Data","Label Encode" ]
